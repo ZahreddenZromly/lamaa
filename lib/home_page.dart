@@ -5,7 +5,6 @@ import 'package:flutter/material.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:cloud_firestore/cloud_firestore.dart';
 import 'package:url_launcher/url_launcher.dart';
-
 import 'settings/app_strings.dart';
 import 'settings/app_theme.dart';
 import 'settings/change_password_page.dart';
